@@ -1,1 +1,1 @@
-# CS178-lab7
+Basic D3 visualization - barchart & scatterplot
